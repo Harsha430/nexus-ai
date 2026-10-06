@@ -1,0 +1,4 @@
+*.env
+__pycache__
+.nexusai
+.pytest_cache
